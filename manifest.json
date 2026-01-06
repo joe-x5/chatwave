@@ -2,7 +2,7 @@
   "name": "Chatwave",
   "short_name": "Chatwave",
   "description": "Connect and communicate with friends via Chatwave.",
-  "start_url": "./index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
